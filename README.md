@@ -1,5 +1,5 @@
 # TEL330_FinalExam
-NMBU, TEL330, Mechatronics final exam
+NMBU, TEL330, Mechatronics final exam \n
 Project Overview: 
 Your objective is to design, implement, and test an intelligent mechatronic system capable of tracking a salmon fillet on a moving conveyor belt. To achieve this, you will utilize a Universal Robots UR10 manipulator and an Intel RealSense camera.
 
